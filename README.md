@@ -12,7 +12,9 @@ Made because Maya's native LOD tools lack batch automation, paid enterprise opti
 2. Copy the code below and paste it in.
 3. Press enter.
 
+```mel
 python("import urllib.request as r; exec(compile(r.urlopen('https://raw.githubusercontent.com/CodeByCon/MayaImpLOD/main/implod_studio.py').read(),'<implod>','exec'))");
+```
 
 Runs the latest version straight from GitHub every time — no files to manage. Save it as a shelf button for one-click access.
 
