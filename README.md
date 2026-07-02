@@ -22,16 +22,21 @@ Zero external dependencies. Texture grid compilation, matrix math, and geometry 
 
 ---
 
-## Features
+<details>
+<summary><b>Features</b></summary>
 
 //TODO
+
+</details>
 
 ---
 
 ## Credits
 
-Connor Henry | Main Developer
-Claude / Anthropic | Architecture & Automation Logic
+| | |
+|---|---|
+| Connor Henry | Main Developer |
+| Claude / Anthropic | Architecture & Automation Logic |
 
 ---
 
